@@ -1,3 +1,4 @@
+
 from tkinter import *
 import math
 import numpy as np
@@ -113,7 +114,7 @@ sin, cos, tan = math.sin, math.cos, math.tan
 log, ln = math.log10, math.log
 e = math.exp
 p = math.pi
-E = '*10**'
+E = '10*'
 
 tk_calc = Tk()
 tk_calc.configure(bg="#293C4A", bd=10)
